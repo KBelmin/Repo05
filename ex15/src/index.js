@@ -4,8 +4,7 @@ function main() {
     var myVerb = "ran";
     var myAdjective = "big";
     var myAdverb = "quickly";
-    var wordBlanks;
-    wordBlanks = "My " + myNoun + " was a " + myAdjective + " golden retriever and he " + myVerb + " very " + myAdverb + ".";
+    var wordBlanks = "My " + myNoun + " was a " + myAdjective + " golden retriever and he " + myVerb + " very " + myAdverb + ".";
     // Only change code above this code
     return wordBlanks; 
 }
